@@ -1,10 +1,12 @@
-### Hi there 👋
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pitlimitcode&hide=shell&theme=radical&layout=compact" align="left" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=pitlimitcode&show_icons=true&theme=radical&hide=issues,stars" align="right" /> 
 
 <!--
 **pitlimitCode/pitlimitCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+- 👋 Hi there
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
